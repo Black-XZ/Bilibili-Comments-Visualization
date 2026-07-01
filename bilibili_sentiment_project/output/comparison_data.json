@@ -1,0 +1,30 @@
+{
+  "danmaku": {
+    "snow_nlp": {
+      "positive": 502,
+      "neutral": 585,
+      "negative": 113
+    },
+    "hybrid": {
+      "positive": 205,
+      "neutral": 777,
+      "negative": 218
+    },
+    "avg_snow": 0.613,
+    "avg_hybrid": 0.516
+  },
+  "comment": {
+    "snow_nlp": {
+      "positive": 1578,
+      "neutral": 601,
+      "negative": 765
+    },
+    "hybrid": {
+      "positive": 1365,
+      "neutral": 481,
+      "negative": 1098
+    },
+    "avg_snow": 0.6161,
+    "avg_hybrid": 0.5355
+  }
+}

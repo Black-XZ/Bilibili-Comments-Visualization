@@ -1,0 +1,470 @@
+{
+  "summary": {
+    "video_title": "《原神》超越PV——「骤雪」",
+    "bvid": "BV1zi7Y6BEdS",
+    "duration_sec": 307,
+    "duration_min": 5.1,
+    "danmaku_count": 1200,
+    "root_comment_count": 200,
+    "reply_count": 2744,
+    "total_comment_count": 2944,
+    "avg_reply_per_root": 13.7,
+    "max_likes": 162383,
+    "dm_top_words": [
+      "女皇",
+      "力量",
+      "奥黛塔"
+    ],
+    "cmt_top_words": [
+      "doge",
+      "女皇",
+      "至冬"
+    ],
+    "sentiment": {
+      "danmaku": {
+        "positive": 205,
+        "neutral": 777,
+        "negative": 218,
+        "avg_score": 0.516
+      },
+      "comment": {
+        "positive": 1365,
+        "neutral": 481,
+        "negative": 1098,
+        "avg_score": 0.5355
+      }
+    }
+  },
+  "dm_time": {
+    "labels": [
+      "0s",
+      "30s",
+      "60s",
+      "90s",
+      "120s",
+      "150s",
+      "180s",
+      "210s",
+      "240s",
+      "270s",
+      "300s"
+    ],
+    "values": [
+      378,
+      93,
+      10,
+      98,
+      110,
+      26,
+      147,
+      295,
+      20,
+      21,
+      2
+    ]
+  },
+  "sentiment": {
+    "danmaku": {
+      "positive": 502,
+      "neutral": 585,
+      "negative": 113,
+      "avg_score": 0.613
+    },
+    "comment": {
+      "positive": 1578,
+      "neutral": 601,
+      "negative": 765,
+      "avg_score": 0.6161
+    }
+  },
+  "sentiment_hist": {
+    "danmaku": {
+      "bins": [
+        0.0,
+        0.05,
+        0.1,
+        0.15,
+        0.2,
+        0.25,
+        0.3,
+        0.35,
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95
+      ],
+      "counts": [
+        3,
+        4,
+        75,
+        4,
+        5,
+        7,
+        6,
+        9,
+        8,
+        11,
+        562,
+        4,
+        9,
+        15,
+        227,
+        9,
+        85,
+        14,
+        16,
+        127
+      ]
+    }
+  },
+  "keywords": {
+    "danmaku": [
+      {
+        "word": "女皇",
+        "count": 233
+      },
+      {
+        "word": "力量",
+        "count": 90
+      },
+      {
+        "word": "奥黛塔",
+        "count": 79
+      },
+      {
+        "word": "一斤",
+        "count": 75
+      },
+      {
+        "word": "鸭梨",
+        "count": 75
+      },
+      {
+        "word": "大人",
+        "count": 14
+      },
+      {
+        "word": "父亲",
+        "count": 8
+      },
+      {
+        "word": "原神",
+        "count": 7
+      },
+      {
+        "word": "好看",
+        "count": 7
+      },
+      {
+        "word": "喜欢",
+        "count": 6
+      },
+      {
+        "word": "母亲",
+        "count": 6
+      },
+      {
+        "word": "301529750",
+        "count": 5
+      },
+      {
+        "word": "萌新来",
+        "count": 5
+      },
+      {
+        "word": "计划",
+        "count": 5
+      },
+      {
+        "word": "欢迎",
+        "count": 5
+      },
+      {
+        "word": "大佬",
+        "count": 5
+      },
+      {
+        "word": "至冬",
+        "count": 5
+      },
+      {
+        "word": "陛下",
+        "count": 5
+      },
+      {
+        "word": "小男孩",
+        "count": 5
+      },
+      {
+        "word": "规则",
+        "count": 5
+      }
+    ],
+    "comment": [
+      {
+        "word": "doge",
+        "count": 255
+      },
+      {
+        "word": "女皇",
+        "count": 191
+      },
+      {
+        "word": "至冬",
+        "count": 177
+      },
+      {
+        "word": "冰神",
+        "count": 166
+      },
+      {
+        "word": "可能",
+        "count": 108
+      },
+      {
+        "word": "应该",
+        "count": 106
+      },
+      {
+        "word": "星星",
+        "count": 93
+      },
+      {
+        "word": "天理",
+        "count": 88
+      },
+      {
+        "word": "原神",
+        "count": 88
+      },
+      {
+        "word": "知道",
+        "count": 84
+      },
+      {
+        "word": "之心",
+        "count": 82
+      },
+      {
+        "word": "感觉",
+        "count": 78
+      },
+      {
+        "word": "孩子",
+        "count": 75
+      },
+      {
+        "word": "角色",
+        "count": 74
+      },
+      {
+        "word": "金箍",
+        "count": 73
+      },
+      {
+        "word": "执政",
+        "count": 71
+      },
+      {
+        "word": "先生",
+        "count": 70
+      },
+      {
+        "word": "还有",
+        "count": 70
+      },
+      {
+        "word": "旅行者",
+        "count": 65
+      },
+      {
+        "word": "钟离",
+        "count": 63
+      }
+    ]
+  },
+  "level_dist": {
+    "labels": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "values": [
+      46,
+      105,
+      285,
+      1040,
+      1468
+    ]
+  },
+  "heatmap": {
+    "labels": [
+      "0s",
+      "10s",
+      "20s",
+      "30s",
+      "40s",
+      "50s",
+      "60s",
+      "70s",
+      "80s",
+      "90s",
+      "100s",
+      "110s",
+      "120s",
+      "130s",
+      "140s",
+      "150s",
+      "160s",
+      "170s",
+      "180s",
+      "200s",
+      "210s",
+      "220s",
+      "230s",
+      "240s",
+      "250s",
+      "260s",
+      "270s",
+      "280s",
+      "290s",
+      "300s"
+    ],
+    "values": [
+      256,
+      88,
+      34,
+      6,
+      81,
+      6,
+      2,
+      5,
+      3,
+      89,
+      6,
+      3,
+      91,
+      8,
+      11,
+      8,
+      7,
+      11,
+      13,
+      134,
+      60,
+      150,
+      85,
+      8,
+      4,
+      8,
+      5,
+      9,
+      7,
+      2
+    ]
+  },
+  "dm_type": {
+    "labels": [
+      "滚动",
+      "顶部",
+      "底部"
+    ],
+    "values": [
+      1147,
+      47,
+      6
+    ]
+  },
+  "top_comments": [
+    {
+      "content": "[原神_哇][原神_哇]",
+      "likes": 162383,
+      "replies": 3729,
+      "user": "原神",
+      "level": 6,
+      "sentiment": "负面"
+    },
+    {
+      "content": "火神之心并没有出现，所以真的是消失了而不是到了女皇手中。\n根据火神和纳塔的特殊性，我猜测后续可能会有一个小兵棋子升变成为火神之心。",
+      "likes": 25075,
+      "replies": 1141,
+      "user": "璃月痞子",
+      "level": 5,
+      "sentiment": "正面"
+    },
+    {
+      "content": "到了至冬之后，有一个叫保尔柯察金的在等你接取他的世界任务",
+      "likes": 20864,
+      "replies": 397,
+      "user": "梁山伯皮卡丘",
+      "level": 5,
+      "sentiment": "正面"
+    },
+    {
+      "content": "看到PV终于爆料的大伙！",
+      "likes": 18378,
+      "replies": 162,
+      "user": "萌城枫尘lemon",
+      "level": 6,
+      "sentiment": "负面"
+    },
+    {
+      "content": "一个成熟的原学家可以从pv中看出很多信息，比如我就能看出女皇陛下很好看。",
+      "likes": 17858,
+      "replies": 127,
+      "user": "Creanna",
+      "level": 6,
+      "sentiment": "正面"
+    },
+    {
+      "content": "我要盖一个冰神好美的楼[给心心]",
+      "likes": 17034,
+      "replies": 918,
+      "user": "胜樱",
+      "level": 2,
+      "sentiment": "正面"
+    },
+    {
+      "content": "至冬原型棋局，女皇御驾亲征，最后钟离直接将死对方国王",
+      "likes": 15480,
+      "replies": 436,
+      "user": "lester_77",
+      "level": 4,
+      "sentiment": "正面"
+    },
+    {
+      "content": "[原神_哇][原神_哇]",
+      "likes": 13250,
+      "replies": 226,
+      "user": "原神千星奇域",
+      "level": 6,
+      "sentiment": "负面"
+    },
+    {
+      "content": "世界式是对的",
+      "likes": 12997,
+      "replies": 186,
+      "user": "上钩重拳",
+      "level": 6,
+      "sentiment": "正面"
+    },
+    {
+      "content": "孩子们，大的要来了！注意pv里的这朵花，是头橡框最终阶段的花朵，而花朵之旁的是代表旅行者的金星！",
+      "likes": 11684,
+      "replies": 132,
+      "user": "千仞柒玖",
+      "level": 6,
+      "sentiment": "正面"
+    }
+  ]
+}
