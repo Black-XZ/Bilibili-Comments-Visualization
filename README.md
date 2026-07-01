@@ -329,8 +329,4 @@ LLM_CONFIGS = [
 | 磁盘 | ~500 MB（BERT 模型缓存） |
 | 网络 | 首次下载 BERT 模型 + LLM API 调用 |
 
----
 
-## 📝 License
-
-MIT
